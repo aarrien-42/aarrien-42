@@ -1,5 +1,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aarrien-42&layout=compact&bg_color=212121&border_color=FFBF4F&title_color=FFBF4F&text_color=FFBF4F)
-
 <!--
 **aarrien-42/aarrien-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

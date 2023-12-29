@@ -12,6 +12,10 @@
 I'm a self-taught programmer and now a student at 42 Urduliz
 
 ## Interesting Projects
-[All 42 Cursus Projects](https://github.com/aarrien-42/42_Projects)
+[42 Cursus Projects](https://github.com/aarrien-42/42_Projects)
+
+[42 Python Modules](https://github.com/aarrien-42/42-AI_python)
+
+[Discovery Piscine](https://github.com/aarrien-42/Discovery_Piscine)
 
 [Atom - My own language](https://github.com/aarrien-42/Atom)

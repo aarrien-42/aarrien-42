@@ -1,4 +1,4 @@
-## Hi 👋, I'm Andoni
+# Hi 👋, I'm Andoni
 ![C](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/PYTHON-%233776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -11,5 +11,6 @@
 
 I'm a self-taught programmer and now a student at 42 Urduliz
 
-
-
+## Interesting Projects
+[All 42 Cursus Projects](https://github.com/aarrien-42/42_Projects)
+[Atom - My own language](https://github.com/aarrien-42/Atom)

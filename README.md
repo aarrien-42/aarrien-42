@@ -12,10 +12,17 @@
 I'm a self-taught programmer and now a student at 42 Urduliz
 
 ## Interesting Projects
-[42 Cursus Projects](https://github.com/aarrien-42/42_Projects)
+| Project                             | Repository                                      | Status                                 |
+|-------------------------------------|--------------------------------------------------|----------------------------------------|
+| 42 Cursus Projects                  | [aarrien-42/42_Projects](https://github.com/aarrien-42/42_Projects)                | ![Active](https://img.shields.io/badge/Active-brightgreen?style=for-the-badge) |
+| 42 Python Modules                   | [aarrien-42/42-AI_python](https://github.com/aarrien-42/42-AI_python)               | ![Complete](https://img.shields.io/badge/Complete-blue?style=for-the-badge) |
+| Discovery Piscine                   | [aarrien-42/Discovery_Piscine](https://github.com/aarrien-42/Discovery_Piscine)    | ![Complete](https://img.shields.io/badge/Complete-blue?style=for-the-badge)     |
+| Atom - My own language               | [aarrien-42/Atom](https://github.com/aarrien-42/Atom)                             | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge) |
 
-[42 Python Modules](https://github.com/aarrien-42/42-AI_python)
-
-[Discovery Piscine](https://github.com/aarrien-42/Discovery_Piscine)
-
-[Atom - My own language](https://github.com/aarrien-42/Atom)
+<!--
+Possible Status Values:
+- ![Active](https://img.shields.io/badge/Active-brightgreen?style=for-the-badge) |
+- ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge) |
+- ![Complete](https://img.shields.io/badge/Complete-blue?style=for-the-badge)     |
+- ![Inactive](https://img.shields.io/badge/Inactive-lightgrey?style=for-the-badge) |
+-->

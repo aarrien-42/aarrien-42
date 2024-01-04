@@ -15,9 +15,9 @@ I'm a self-taught programmer and now a student at 42 Urduliz
 | Project                             | Repository                                      | Status                                 |
 |-------------------------------------|--------------------------------------------------|----------------------------------------|
 | 42 Cursus Projects                  | [aarrien-42/42_Projects](https://github.com/aarrien-42/42_Projects)                | ![Active](https://img.shields.io/badge/Active-brightgreen?style=for-the-badge) |
-| 42 Python Modules                   | [aarrien-42/42-AI_python](https://github.com/aarrien-42/42-AI_python)               | ![Complete](https://img.shields.io/badge/Complete-blue?style=for-the-badge) |
+| 42 Python Modules                   | [aarrien-42/42-AI_python](https://github.com/aarrien-42/42-AI_python)              | ![Complete](https://img.shields.io/badge/Complete-blue?style=for-the-badge) |
 | Discovery Piscine                   | [aarrien-42/Discovery_Piscine](https://github.com/aarrien-42/Discovery_Piscine)    | ![Complete](https://img.shields.io/badge/Complete-blue?style=for-the-badge)     |
-| Atom - My own language               | [aarrien-42/Atom](https://github.com/aarrien-42/Atom)                             | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge) |
+| Atom - My own programming language  | [aarrien-42/Atom](https://github.com/aarrien-42/Atom)                              | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge) |
 
 <!--
 Possible Status Values:

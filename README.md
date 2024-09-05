@@ -16,7 +16,7 @@ I'm a self-taught programmer and now a student at 42 Urduliz
 | Project                                            | Repository                                                                                         | Status                                                                                |
 |----------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | Atom - My own programming language                 | [aarrien-42/Atom](https://github.com/aarrien-42/Atom)                                              | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge) |
-| DevFS - Developer oriented FUSE based file system  | [aarrien-42/DevFS](https://github.com/aarrien-42/DevFS)                                            | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge) |
+| DevFS - Developer oriented FUSE based file system  | [aarrien-42/DevFS](https://github.com/aarrien-42/DevFS)                                            | ![Inactive](https://img.shields.io/badge/Inactive-lightgrey?style=for-the-badge)      |
 
 **42 CAMPUS:**
 | Project                             | Repository                                                                                         | Status                                                                                |
